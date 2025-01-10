@@ -1,15 +1,17 @@
+
 # trisha
 <h1 align="center">Hi 👋, I'm Trisha Sengupta</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on **dsa**
 
-- 🌱 I’m currently learning **typescript**
+<P></P>
 
 - 📫 How to reach me **trishasengupta27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <P></P>
 <a href="https://www.leetcode.com/https://leetcode.com/u/trisen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/trisen/" height="30" width="40" /></a>
 </p>
 
