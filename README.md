@@ -1,9 +1,9 @@
 
-# trisha
+
 <h1 align="center">Hi 👋, I'm Trisha Sengupta</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **dsa**
+- 🔭 I’m currently working on **DSA and building fun projects**
 
 <P></P>
 
